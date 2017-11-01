@@ -1,0 +1,3 @@
+* Port existing dump parsing
+* Develop web service to query database
+* Develop interface to show simple table by status and project details
